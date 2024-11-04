@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+scikit-fuzzy
+nltk
+networkx
+packaging
+matplotlib
+fpdf
